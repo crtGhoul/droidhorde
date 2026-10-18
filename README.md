@@ -1,7 +1,6 @@
 # droidhorde
 
-A multi-source Android APK index. One static `index.html` (11.7 MB), served
-from GitHub Pages: **https://crtghoul.github.io/droidhorde/**
+A multi-source Android APK index. One static `index.html` (11.7 MB), served from GitHub Pages: **https://crtghoul.github.io/droidhorde/** · [Cloudflare mirror](https://droidhorde.pages.dev)
 
 v1.3: **7,823 apps / 21,245 builds**, deduped by Android package name.
 Search, browse by category, check version histories per source, and compare
