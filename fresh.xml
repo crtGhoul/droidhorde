@@ -2,358 +2,358 @@
 <rss version="2.0">
 <channel>
   <title>droidhorde — fresh drops</title>
-  <link>https://crtghoul.github.io/droidhorde/</link>
+  <link>https://droidhorde.pages.dev/</link>
   <description>Apps with new builds indexed by droidhorde in the last 7 days. Refreshed every monday.</description>
-  <lastBuildDate>Sat, 17 Oct 2026 09:51:48 GMT</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 09:55:30 GMT</lastBuildDate>
   <item>
-    <title>Fluffy v4.5.2</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Fluffy</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Fluffy</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v4.5.2 — Fluffy is a lightweight file manager for phones, tablets, and Android TV. - Browse internal storage or any SAF folder - Create and extract archives: ZIP, 7z, TAR, TGZ, TBZ2, TXZ, APK/JAR - Encrypted archives: ZIP (AES) and 7z - Background tasks with progress and a Task Center - O (via fdroid, izzy, aptoide)</description>
+    <title>CClauncher vv10.7.20</title>
+    <link>https://droidhorde.pages.dev/#app=CClauncher</link>
+    <guid>https://droidhorde.pages.dev/#app=CClauncher</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>vv10.7.20 — CCLauncher is a minimalist Android launcher designed to help reduce screen time and distractions due to all the apps present (like social media apps for example). Unlike traditional launchers, apps are hidden by default. Key Features: - Apps invisible by default (type to search)  (via fdroid, izzy)</description>
   </item>
   <item>
-    <title>Blood pressure monitor v1.8.16</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Blood%20pressure%20monitor</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Blood%20pressure%20monitor</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.8.16 — &lt;p&gt;&lt;i&gt;blood pressure monitor&lt;/i&gt; is a reliable blood pressure measurement tracker and analyzer. It is designed to allow saving measurements faster than anywhere else and make sharing data with you doctor effortless. It works out of the box but can also be configured for individua (via fdroid)</description>
+    <title>DeadHash v1.9.0</title>
+    <link>https://droidhorde.pages.dev/#app=DeadHash</link>
+    <guid>https://droidhorde.pages.dev/#app=DeadHash</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.9.0 — &lt;p&gt;&lt;i&gt;DeadHash&lt;/i&gt; can generate hashes for files and text easily in a matter of seconds.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Generate hashes for files and texts&lt;/li&gt;&lt;li&gt;Dark theme support&lt;/li&gt;&lt;li&gt;Compare your hashes&lt;/li&gt;&lt;li&gt;Supports multiple hashes&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;Supported… (via fdroid, izzy)</description>
   </item>
   <item>
-    <title>Exclave v0.17.60</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Exclave</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Exclave</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v0.17.60 — Exclave is a proxy client. Features: - Various proxy protocols - Group and subscription - Routing - Proxy chain Some supported protocols: - Shadowsocks (with SIP003 plugin support) - Shadowsocks 2022 (with SIP003 plugin support) - Trojan - Hysteria 2 - AnyTLS - mieru - NaïveProxy (via fdroid)</description>
+    <title>FTPClient v4.0.0</title>
+    <link>https://droidhorde.pages.dev/#app=FTPClient</link>
+    <guid>https://droidhorde.pages.dev/#app=FTPClient</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v4.0.0 — &lt;p&gt;FTPClient is a very simple FTP, FTPS and SFTP client for Android 5.0+, using Apache Commons Net (https://commons.apache.org/proper/commons-net) and SSHJ (https://github.com/hierynomus/sshj/).&lt;/p&gt;&lt;p&gt;&lt;b&gt;Features&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;view directory content&lt;/li&gt;&lt;li&gt;upload files to serve (via fdroid, izzy)</description>
   </item>
   <item>
-    <title>Gitalchemy v1.7.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Gitalchemy</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Gitalchemy</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.7.0 — Gitalchemy is a free and open-source GitLab client for Android and desktop (Linux, macOS, Windows), built with Tauri v2, React, and TypeScript. Manage your entire GitLab workflow from your phone or computer — no browser needed. Features: - Browse and search projects, groups, and  (via fdroid)</description>
+    <title>Next Player v0.20.0</title>
+    <link>https://droidhorde.pages.dev/#app=Next%20Player</link>
+    <guid>https://droidhorde.pages.dev/#app=Next%20Player</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v0.20.0 — Next Player is a native video player written in Kotlin and jetpack compose. It provides a simple and easy-to-use interface for users to play videos on their Android devices This project is still in development and is expected to have bugs Supported formats: * Audio: Vorbis, Opus, (via fdroid, izzy, aptoide)</description>
   </item>
   <item>
-    <title>JekyllEx vv0.2.6</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=JekyllEx</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=JekyllEx</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>vv0.2.6 — JekyllEx is a powerful IDE designed specifically for Jekyll projects. Build, preview, and publish your Jekyll based websites right from your device. &lt;ul&gt; &lt;li&gt;GitHub Pages environment with Ruby and default gems embedded natively.&lt;/li&gt; &lt;li&gt;Built-in Git for version control. Easily c (via fdroid)</description>
+    <title>Thumb-Key v5.1.20</title>
+    <link>https://droidhorde.pages.dev/#app=Thumb-Key</link>
+    <guid>https://droidhorde.pages.dev/#app=Thumb-Key</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v5.1.20 — &lt;p&gt;Thumb-Key is a &lt;i&gt;privacy-conscious&lt;/i&gt; smart keyboard, made specifically for your thumbs.&lt;/p&gt;&lt;p&gt;It features a &lt;b&gt;3x3 grid layout&lt;/b&gt;, and uses swipes for the less common letters. Its easy to learn, and designed for fast typing speeds.&lt;/p&gt;&lt;p&gt;Instead of relying on profit-driven (via fdroid, izzy)</description>
   </item>
   <item>
-    <title>MakeACopy v4.7.1</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=MakeACopy</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=MakeACopy</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v4.7.1 — MakeACopy is an open-source document scanner app for Android that allows you to digitize paper documents with offline OCR functionality. The app is privacy-friendly and works completely offline — no cloud connection, no tracking. Features: • Camera scanning: Capture documents usi (via fdroid)</description>
+    <title>Capy Reader v2026.11.1216</title>
+    <link>https://droidhorde.pages.dev/#app=Capy%20Reader</link>
+    <guid>https://droidhorde.pages.dev/#app=Capy%20Reader</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v2026.11.1216 — Just like its namesake, Capy Reader is a small RSS reader focused on approachability and simplicity. Some features include: • Syncing via Feedbin, FreshRSS, or directly to your device • Track read and starred articles • Article search • Headlines widget • Notifications • Full con (via fdroid, izzy)</description>
   </item>
   <item>
-    <title>Mattermost Beta v2.44.1</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Mattermost%20Beta</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Mattermost%20Beta</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v2.44.1 — Requires Mattermost Server v11.7.0+. Older servers may not be able to connect or have unexpected behavior. ------- Mattermost is secure workplace messaging from behind your firewall. - Discuss topics in private groups, one-to-one or team-wide - Easily share and view image files - (via fdroid)</description>
+    <title>Translate You v20.0</title>
+    <link>https://droidhorde.pages.dev/#app=Translate%20You</link>
+    <guid>https://droidhorde.pages.dev/#app=Translate%20You</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v20.0 — &lt;p&gt;&lt;i&gt;Translate You&lt;/i&gt; is a Translator App built with &lt;a href=&quot;https://m3.material.io/&quot; target=&quot;_blank&quot; rel=&quot;noindex nofollow noopener&quot;&gt;Material Design 3 (You)&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;It supports multiple different translation engines such as LibreTranslate, Lingva, DeepL and more. In total, (via fdroid, izzy)</description>
   </item>
   <item>
-    <title>Olvid v4.6-fdroid</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Olvid</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Olvid</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v4.6-fdroid — Olvid is the first private instant messaging application for everyone. Send messages, photos, files and make secure phone and video calls. What is a &quot;private&quot; messenger? It&#x27;s a messenger: - That does not push new contacts on you. You are in control: you choose who you want to dis (via fdroid)</description>
+    <title>Amethyst v1.21.0</title>
+    <link>https://droidhorde.pages.dev/#app=Amethyst</link>
+    <guid>https://droidhorde.pages.dev/#app=Amethyst</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.21.0 — &lt;p&gt;&lt;i&gt;Amethyst&lt;/i&gt; brings the best social network to your Android phone. Just insert your Nostr private key and start posting.&lt;/p&gt; &lt;p&gt;&lt;a href=&#x27;https://nostr.com/&#x27; target=&#x27;_blank&#x27; rel=&#x27;nofollow noopener&#x27;&gt;Nostr&lt;/a&gt; is an open protocol that is able to create a censorship-resistant g (via fdroid, izzy)</description>
   </item>
   <item>
-    <title>Orion Viewer - Pdf &amp; Djvu v0.97.4</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Orion%20Viewer%20-%20Pdf%20%26%20Djvu</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Orion%20Viewer%20-%20Pdf%20%26%20Djvu</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v0.97.4 — &lt;p&gt;Orion Viewer is pdf, djvu, xps, cbz and tiff file viewer for Android devices based on mupdf and DjVuLibre libraries.&lt;/p&gt; &lt;p&gt;Application features:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Outline navigation&lt;/li&gt; &lt;li&gt;Bookmarks support&lt;/li&gt; &lt;li&gt;Page navigation by screen taps + Tap Zones + Key binding&lt;/li&gt; &lt; (via fdroid)</description>
+    <title>Materialious v1.18.13</title>
+    <link>https://droidhorde.pages.dev/#app=Materialious</link>
+    <guid>https://droidhorde.pages.dev/#app=Materialious</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.18.13 — &lt;i&gt;Materialious&lt;/i&gt; is a client for &lt;a href=&#x27;https://github.com/iv-org&#x27;&gt;Invidious&lt;/a&gt; using material design. It lets you browse and watch videos, manage playlists and use channels. &lt;b&gt;Features:&lt;/b&gt; &lt;ul&gt; &lt;li&gt;Invidious companion support&lt;/li&gt; &lt;li&gt;Invidious API extended integration&lt;/ (via fdroid, izzy)</description>
   </item>
   <item>
-    <title>Snowflake Volunteer v1.15</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Snowflake%20Volunteer</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Snowflake%20Volunteer</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.15 — Help people in censored countries access the Internet without restrictions. What is Snowflake? Snowflake allows people to connect to the Tor network in places where Tor is blocked by routing your connection through volunteer proxies located in uncensored countries. Similar to VPN (via fdroid)</description>
+    <title>NOVA Video Player v6.6.3-20261101.1547</title>
+    <link>https://droidhorde.pages.dev/#app=NOVA%20Video%20Player</link>
+    <guid>https://droidhorde.pages.dev/#app=NOVA%20Video%20Player</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v6.6.3-20261101.1547 — &lt;p&gt;&lt;i&gt;Nova&lt;/i&gt; is an opeN sOurce Video plAyer designed for tablets, phones and AndroidTV devices.&lt;/p&gt;&lt;p&gt;&lt;br&gt;Universal player:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Play videos from your computer, server (FTP, SFTP), NAS (SMB, UPnP)&lt;/li&gt;&lt;li&gt;Play videos from external USB storage&lt;/li&gt;&lt;li&gt;Videos from all sourc (via fdroid, izzy)</description>
   </item>
   <item>
-    <title>TiefPrompt v1.3.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=TiefPrompt</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=TiefPrompt</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.3.0 — TiefPrompt is an extraordinarily simple teleprompter app for creators, presenters, and professionals. Load your script from a file or paste it directly, then control playback with play, pause, speed adjustment, and orientation flip options. TiefPrompt is open-source and available (via fdroid, izzy, aptoide)</description>
+    <title>OwnDroid v8.4.1</title>
+    <link>https://droidhorde.pages.dev/#app=OwnDroid</link>
+    <guid>https://droidhorde.pages.dev/#app=OwnDroid</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v8.4.1 — &lt;p&gt;OwnDroid is a DPC (device policy controller) app.&lt;/p&gt;&lt;p&gt;It supports the following working modes:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Device owner&lt;/li&gt;&lt;li&gt;Profile owner (only in secondary users)&lt;/li&gt;&lt;li&gt;Work profile&lt;/li&gt;&lt;li&gt;Dhizuku&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;It has the following features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;System: disable c (via izzy, aptoide)</description>
   </item>
   <item>
-    <title>OsmAnd~ v5.4.10</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=OsmAnd~</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=OsmAnd~</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v5.4.10 — OsmAnd is an offline world map application based on OpenStreetMap (OSM), which allows you to navigate taking into account the preferred roads and vehicle dimensions. Plan routes based on inclines and record GPX tracks without an internet connection. OsmAnd is an open source app.  (via fdroid, apkvision)</description>
+    <title>Podcini.A - Extensible media instrument v12.17.7</title>
+    <link>https://droidhorde.pages.dev/#app=Podcini.A%20-%20Extensible%20media%20instrument</link>
+    <guid>https://droidhorde.pages.dev/#app=Podcini.A%20-%20Extensible%20media%20instrument</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v12.17.7 — &lt;p&gt;Podcini.A, an open source extensible media instrument, attuned to Puccini, adorned with pasticcini and aromatized with porcini, invites your harmonious heartbeats.&lt;/p&gt;&lt;p&gt;Notable features&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Not only handling podcasts, local media, but also any remote media served by ex (via fdroid, izzy)</description>
   </item>
   <item>
-    <title>Skylight Wallet v2.1.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Skylight%20Wallet</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Skylight%20Wallet</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v2.1.0 — This is not your normal Monero wallet app. Read the description to learn more. Skylight Wallet REQUIRES you to specify a Monero light-wallet server (LWS). This can be a server that you already have, or a server that is operated by a trusted friend. Read &quot;About Monero Light-Wallet (via fdroid, apkpure)</description>
+    <title>Table Habit v1.27.18</title>
+    <link>https://droidhorde.pages.dev/#app=Table%20Habit</link>
+    <guid>https://droidhorde.pages.dev/#app=Table%20Habit</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.27.18 — &quot;Table Habit&quot; is an app that helps you establish and track your own micro habit. Its includes a complete set of growth curves and charts to help you establish habits more effectively. Moreover, this app completely open source and include features below: - A scoring system to help (via fdroid, izzy)</description>
   </item>
   <item>
-    <title>Storii - audiobookshelf client v0.12.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Storii%20-%20audiobookshelf%20client</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Storii%20-%20audiobookshelf%20client</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v0.12.0 — Storii is a modern, feature-rich client for &lt;a href=&quot;https://github.com/advplyr/audiobookshelf&quot;&gt;Audiobookshelf&lt;/a&gt; that focuses on a clean user experience and maintainable architecture. &lt;b&gt;Features:&lt;/b&gt; &lt;ul&gt; &lt;li&gt;Audiobooks &amp;amp; Podcasts streaming with background playback and pro (via fdroid, izzy)</description>
+    <title>Cerberus Tiles v0.5.2</title>
+    <link>https://droidhorde.pages.dev/#app=Cerberus%20Tiles</link>
+    <guid>https://droidhorde.pages.dev/#app=Cerberus%20Tiles</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v0.5.2 — &lt;p&gt;&lt;i&gt;Cerberus Tiles&lt;/i&gt; adds essential Quick Settings tiles and app shortcuts to Google Pixel phones, providing quick access to core settings that aren&#x27;t readily available by default. Ideal for use with back tap gestures.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Adaptive Brightn (via izzy)</description>
   </item>
   <item>
-    <title>Anti-Vocale v1.14.1</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Anti-Vocale</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Anti-Vocale</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.14.1 — Anti-Vocale transcribes voice messages from WhatsApp, Telegram, and other messaging apps directly on your Android device. All processing happens on-device: your audio never leaves your phone. It works on recorded calls and meetings too: recordings of any length are split and stit (via fdroid)</description>
+    <title>Kelani SBD Tracker v2.0.63</title>
+    <link>https://droidhorde.pages.dev/#app=Kelani%20SBD%20Tracker</link>
+    <guid>https://droidhorde.pages.dev/#app=Kelani%20SBD%20Tracker</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v2.0.63 — &lt;p&gt;Kelani SBD Tracker is a calm, offline-first powerlifting tracker for structured Squat, Bench Press and Deadlift training.&lt;/p&gt;&lt;p&gt;It helps you plan, track and complete SBD workouts without accounts, ads, subscriptions, automatic analytics, telemetry or Kelani cloud sync. Your sa (via izzy)</description>
   </item>
   <item>
-    <title>Deku SMS v0.78.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Deku%20SMS</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Deku%20SMS</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v0.78.0 — DekuSMS is an open-source SMS app designed to prioritize your privacy and security while using SMS. With DekuSMS, you can send and receive end-to-end encrypted SMS messages, ensuring that your conversations remain confidential. DekuSMS also enables users with the option to config (via fdroid)</description>
+    <title>Zenith v1.6.4</title>
+    <link>https://droidhorde.pages.dev/#app=Zenith</link>
+    <guid>https://droidhorde.pages.dev/#app=Zenith</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.6.4 — &lt;p&gt;&lt;i&gt;Zenith&lt;/i&gt; is a smart focus assistant for Android designed to help you reduce digital distractions through proactive intervention based on Material Design 3 Expressive.&lt;/p&gt;&lt;p&gt;Zenith is fully free and open-source. You can find the source code and report bugs or suggest featu (via izzy)</description>
   </item>
   <item>
-    <title>Enclavd v2.2.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Enclavd</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Enclavd</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v2.2.0 — &lt;b&gt;Enclavd: Personality social network.&lt;/b&gt; &lt;br /&gt; Stop broadcasting into the void. Enclavd is a social network built on compatibility. Take a personality quiz, get matched with people on your wavelength, and connect through a feed built around who you actually are. &lt;br /&gt; &lt;b&gt;COR (via fdroid)</description>
+    <title>Besser Bahn v2.7.0</title>
+    <link>https://droidhorde.pages.dev/#app=Besser%20Bahn</link>
+    <guid>https://droidhorde.pages.dev/#app=Besser%20Bahn</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v2.7.0 — &lt;p&gt;&lt;i&gt;Besser Bahn&lt;/i&gt; is an app for finding cheaper split ticket options for Deutsche Bahn connections.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;b&gt;Functions:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Analysis of DB links (short vbid links and long URLs)&lt;/li&gt;&lt;li&gt;Find the cheapest split ticket combination&lt;/li&gt;&lt;li&gt;Support for BahnCard dis (via izzy)</description>
   </item>
   <item>
-    <title>Flac-R v0.6.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Flac-R</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Flac-R</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v0.6.0 — Whether you&#x27;re organizing a massive local music library, fixing messy metadata, or curating your perfect playlist, &lt;b&gt;Flac-R&lt;/b&gt; helps you to keep your local music collection top-notch. With support for .mp3 .flac .m4a .ogg .opus &amp; .aac &lt;b&gt;Flac-R&lt;/b&gt; will seamlessly edit tags, ma (via fdroid)</description>
+    <title>HahaNote v1.0.17</title>
+    <link>https://droidhorde.pages.dev/#app=HahaNote</link>
+    <guid>https://droidhorde.pages.dev/#app=HahaNote</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.0.17 — &lt;p&gt;HahaNote is a file-based note-taking app, supports E2EE sync, it can sync your notes to Dropbox/WebDav Server/Github(and other git platforms), support Windows/Linux/Android&lt;/p&gt;&lt;p&gt;Features&lt;/p&gt;&lt;ul&gt;&lt;li&gt;All your data on your own: HahaNote is file-based, so you can access your file (via izzy)</description>
   </item>
   <item>
-    <title>Grove v0.8.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Grove</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Grove</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v0.8.0 — Whether you&#x27;re maintaining sobriety, breaking harmful habits, or building positive routines, &lt;b&gt;Grove&lt;/b&gt; helps you stay focused on consistent progress. Watch your streaks grow, track meaningful milestones, and cultivate a forest of procedurally generated fractal trees that evolv (via fdroid)</description>
+    <title>Pulse v2.3.0</title>
+    <link>https://droidhorde.pages.dev/#app=Pulse</link>
+    <guid>https://droidhorde.pages.dev/#app=Pulse</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v2.3.0 — &lt;p&gt;Redirect calls to Signal, Telegram, Threema, or WhatsApp.&lt;/p&gt;&lt;hr&gt;&lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Material You design&lt;/li&gt;&lt;li&gt;Popup with cancel option&lt;/li&gt;&lt;li&gt;Toggle per-service support&lt;/li&gt;&lt;li&gt;Redirection only on Wi-Fi/Data&lt;/li&gt;&lt;li&gt;Allowlist specific contacts&lt;/li&gt;&lt;li&gt; (via izzy)</description>
   </item>
   <item>
-    <title>GymMane v1.5.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=GymMane</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=GymMane</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.5.0 — GymMane is a strength log built for the gym floor, not for a dashboard. Tap the muscles you want to train on an interactive body map, log reps and weight set by set, rest with an alarm that actually gets your attention, and read progress that comes from your own sets. Dark, fast, (via fdroid)</description>
+    <title>Sable v2.3.1</title>
+    <link>https://droidhorde.pages.dev/#app=Sable</link>
+    <guid>https://droidhorde.pages.dev/#app=Sable</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v2.3.1 — &lt;p&gt;Sable is a Matrix client built to enhance the user experience with quality-of-life features, cosmetics, utilities, and sheer usability. It is a fork of Cinny.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;End-to-end encrypted messaging, with encrypted push notification previews decrypted on-devi (via izzy, apkpure)</description>
   </item>
   <item>
-    <title>Hacki for Hacker News v3.8.2</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Hacki%20for%20Hacker%20News</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Hacki%20for%20Hacker%20News</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v3.8.2 — Features: - Log in using your Hacker News account. - Browse stories from various categories. - Search for stories. - Submit stories. - Pin stories. - Mark stories as favorite. - Leave comments. - Collapse comments. - View parent comments without scrolling up. - View and participa (via fdroid)</description>
+    <title>TrackerControl v2026.11.01</title>
+    <link>https://droidhorde.pages.dev/#app=TrackerControl</link>
+    <guid>https://droidhorde.pages.dev/#app=TrackerControl</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v2026.11.01 — &lt;p&gt;TrackerControl allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour (&#x27;tracking&#x27;).&lt;/p&gt;&lt;p&gt;To detect tracking, TrackerControl combines the power of the Disconnect blocklist, used by Firefox, and our in-house block (via izzy)</description>
   </item>
   <item>
-    <title>Lrc-R v0.3.6</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Lrc-R</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Lrc-R</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v0.3.6 — Whether you&#x27;re syncing your favorite songs, or uploading to a database like lrclib, &lt;b&gt;Lrc-R&lt;/b&gt; helps you create perfect synced lyrics files with ease. Tap along to your music, stamp each line with a precise timestamp, and export a ready-to-use .lrc file, all processed locally o (via fdroid)</description>
+    <title>Tyr - P2P Email v1.9.1</title>
+    <link>https://droidhorde.pages.dev/#app=Tyr%20-%20P2P%20Email</link>
+    <guid>https://droidhorde.pages.dev/#app=Tyr%20-%20P2P%20Email</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.9.1 — &lt;p&gt;Tyr is a revolutionary Android application that provides true peer-to-peer email communication using the Yggdrasil mesh network. Unlike traditional email systems that rely on centralized servers, Tyr runs a complete email server directly on your device.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Key Features:&lt; (via izzy)</description>
   </item>
   <item>
-    <title>MoveAPiece: Offline Chess v1.7.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=MoveAPiece%3A%20Offline%20Chess</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=MoveAPiece%3A%20Offline%20Chess</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.7.0 — Open it and play. MoveAPiece is an offline chess app that starts straight into a game against the Stockfish chess engine. No account, no ads, no internet connection, no settings screen. One &quot;New Game&quot; dialog covers every choice there is (opponent, colour, strength, opening), and  (via fdroid)</description>
+    <title>Zood Location v0.68</title>
+    <link>https://droidhorde.pages.dev/#app=Zood%20Location</link>
+    <guid>https://droidhorde.pages.dev/#app=Zood%20Location</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v0.68 — &lt;p&gt;With &lt;i&gt;Zood Location,&lt;/i&gt; your family and loved ones can continuously share their location with each other, so you can make sure everyone is safe with a quick glance at your phone. No more having to text and call each person to find out where they are, and where they are head (via izzy, aptoide)</description>
   </item>
   <item>
-    <title>NATINFo+ v1.14.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=NATINFo%2B</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=NATINFo%2B</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.14.0 — NATINFo+ is an example of a client application that can be used to search for and consult offences in the NATINF nomenclature via the NATINFo API (https://codeberg.org/retiolus/natinfo). What does ‘NATINF’ mean? ‘NATINF is the nomenclature of French offences (NATure d&#x27;INFraction) (via fdroid)</description>
+    <title>Auraninja v1.7.10</title>
+    <link>https://droidhorde.pages.dev/#app=Auraninja</link>
+    <guid>https://droidhorde.pages.dev/#app=Auraninja</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.7.10 — &lt;p&gt;Auraninja is a minimalist ambient sound mixer and internet radio app built with Material You design.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Mix multiple ambient sounds (rain, birds, fire, wind, waves, thunder, cat, binaural beats)&lt;/li&gt;&lt;li&gt;Internet radio support with Yumi Co. and Radio Bro (via izzy)</description>
   </item>
   <item>
-    <title>Nextcloud Pantry v0.36.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Nextcloud%20Pantry</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Nextcloud%20Pantry</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v0.36.0 — Pantry is a companion app for the Nextcloud Pantry server app. It lets you and your household members collaborate on shared checklists, a photo board, and a notes wall — all stored on your own Nextcloud server. * Checklists Create shopping lists and to-do lists with categories, q (via fdroid)</description>
+    <title>Traffic Light v3.4.3</title>
+    <link>https://droidhorde.pages.dev/#app=Traffic%20Light</link>
+    <guid>https://droidhorde.pages.dev/#app=Traffic%20Light</guid>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v3.4.3 — &lt;p&gt;Traffic Light is an open-source tool for tracking your network usage while ensuring total privacy. Inspired by Internet Speed Meter and GlassWire.&lt;/p&gt;&lt;p&gt;Features: - Free and open source - Uses few permissions - Uses less battery - No tracking - Beautiful UI - Fast and modern&lt;/ (via izzy)</description>
   </item>
   <item>
-    <title>Notes Tech v3.1.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Notes%20Tech</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Notes%20Tech</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v3.1.0 — Notes Tech: 100% local Markdown note-taking, encrypted at rest. Written in Kotlin. &lt;b&gt;Radical privacy&lt;/b&gt; • No INTERNET permission — verifiable with &lt;code&gt;aapt dump permissions app.apk&lt;/code&gt; • No account, no telemetry, no tracker, no advertising • SQLCipher AES-256 database, key (via fdroid)</description>
+    <title>BeatBridge: Bluetooth Music v1.0.82</title>
+    <link>https://droidhorde.pages.dev/#app=BeatBridge%3A%20Bluetooth%20Music</link>
+    <guid>https://droidhorde.pages.dev/#app=BeatBridge%3A%20Bluetooth%20Music</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.0.82 — Make Bluetooth music playback feel automatic. BeatBridge resumes music when the Bluetooth device you choose connects. Use it with your car, headphones, speakers, or any paired Bluetooth device, then carry on listening in the media app you already use. HOW IT WORKS Choose a paired (via fdroid, apkpure)</description>
   </item>
   <item>
-    <title>Oinkoin v1.15.1</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Oinkoin</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Oinkoin</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.15.1 — Oinkoin Money Manager makes managing personal finances easy and secure. It is light and easy to use. You need just few taps to keep track of your expenses. Simplicity and Security are our two main drivers: Oinkoin is an offline and ad-free app. * Privacy caring We believe you sho (via fdroid)</description>
+    <title>Chaka Book Reader v1.27.1a.29</title>
+    <link>https://droidhorde.pages.dev/#app=Chaka%20Book%20Reader</link>
+    <guid>https://droidhorde.pages.dev/#app=Chaka%20Book%20Reader</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.27.1a.29 — Read fluently and comfortably, with simple and clear interface. Supported Document Types: PDF, EPUB, MOBI, CBZ, FB2 and XPS Features: Horizontal / Vertical Flip Continuous Scroll Lock Stray: Keep scroll straight Margin Crop Focus Mode: Retent page position on flipping zoomed page (via fdroid, aptoide)</description>
   </item>
   <item>
-    <title>ServerBox v1.0.1765</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=ServerBox</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=ServerBox</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.0.1765 — A Flutter project which provide charts to display Linux server status and tools to manage server. Especially thanks to dartssh2 &amp; xterm.dart. * Status chart (CPU, Sensors, GPU...), SSH Term, SFTP, Docker &amp; Pkg &amp; Process... * Platform specific: Bio auth、Msg push、Home widget、watchO (via fdroid)</description>
+    <title>ekklesia — Direct Democracy v1.0.37</title>
+    <link>https://droidhorde.pages.dev/#app=ekklesia%20%E2%80%94%20Direct%20Democracy</link>
+    <guid>https://droidhorde.pages.dev/#app=ekklesia%20%E2%80%94%20Direct%20Democracy</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.0.37 — ekklesia is an independent, open-source direct democracy platform for Greek citizens. Vote on real parliamentary bills, regional and municipal decisions — anonymously and securely. Features: • Citizen Voting — Vote Yes/No/Abstain on real bills from the Hellenic Parliament • Diver (via fdroid)</description>
   </item>
   <item>
-    <title>Tents v1.0.2</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Tents</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Tents</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.0.2 — Tents is a logic puzzle game. The goal is to place tents in the grid so that every tree is paired with a tent according to grid constraints. Free and Open Source No Ads No Trackers or Telemetry No Data Collection Works Completely Offline (via fdroid)</description>
+    <title>Macrion v0.6.4</title>
+    <link>https://droidhorde.pages.dev/#app=Macrion</link>
+    <guid>https://droidhorde.pages.dev/#app=Macrion</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v0.6.4 — Macrion is a free and open-source Android automation app. Create scenarios that react to what is on screen, then perform configured taps, long presses, swipes, text input, and system actions. Use image, text, number, and colour conditions to make automation respond to screen stat (via fdroid)</description>
   </item>
   <item>
-    <title>TG WS Proxy v2.5.4</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=TG%20WS%20Proxy</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=TG%20WS%20Proxy</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v2.5.4 — &lt;p&gt;&lt;strong&gt;Telegram MTProto WebSocket Bridge Proxy&lt;/strong&gt; — a Rust &lt;strong&gt;vibecoded&lt;/strong&gt; port of &lt;a href=&quot;https://github.com/Flowseal/tg-ws-proxy&quot;&gt;Flowseal/tg-ws-proxy&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;Listens for Telegram Desktop&amp;#39;s MTProto connections on a local port and tunnels them throu (via fdroid)</description>
+    <title>OONI Probe v6.3.0</title>
+    <link>https://droidhorde.pages.dev/#app=OONI%20Probe</link>
+    <guid>https://droidhorde.pages.dev/#app=OONI%20Probe</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v6.3.0 — Are websites and social media apps blocked? Is your network unusually slow? Run OONI Probe to find out! With this app, you will examine the blocking of websites and instant messaging apps, measure your network&#x27;s speed and performance, and check whether systems that could be respo (via fdroid)</description>
   </item>
   <item>
-    <title>TriPeaks NEUE v0.9.63</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=TriPeaks%20NEUE</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=TriPeaks%20NEUE</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v0.9.63 — A simple Tri Peaks patience (solitaire) game. This is a remake of tripeaks-gdx project, my previous implementation of the same game. Main Features: - Four board layouts - An option to show the values of face-down cards - An option to start with an empty discard pile, allowing the (via fdroid)</description>
+    <title>Screen Time v1.4.0</title>
+    <link>https://droidhorde.pages.dev/#app=Screen%20Time</link>
+    <guid>https://droidhorde.pages.dev/#app=Screen%20Time</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.4.0 — Displays your screen time in a permanent notification. By making screen time more prominent, you can get a better sense of how much of the day you spend on your phone. Without judgement. Just so you know. This is open source: https://github.com/markusfisch/ScreenTime * Add detail (via fdroid, izzy, apkpure)</description>
   </item>
   <item>
-    <title>Vault Explorer v1.32.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Vault%20Explorer</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Vault%20Explorer</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.32.0 — Vault Explorer opens and browses encrypted containers and vaults directly on your device -- VeraCrypt/TrueCrypt, LUKS, BitLocker, Cryptomator, gocryptfs, and CryFS, plus VHD/VHDX images -- without exporting your files unencrypted to shared storage. Features: * Read/write NTFS, FA (via fdroid)</description>
+    <title>Flex: Gym Workout Log v2.2.38</title>
+    <link>https://droidhorde.pages.dev/#app=Flex%3A%20Gym%20Workout%20Log</link>
+    <guid>https://droidhorde.pages.dev/#app=Flex%3A%20Gym%20Workout%20Log</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v2.2.38 — Log your gym workouts, follow your strength progress, and keep your training private. Flexify is a fast, offline workout tracker for strength training and cardio. Record sets, reps, and weights, use rest timers to stay on pace, and review clear progress graphs after every session (via fdroid, aptoide)</description>
   </item>
   <item>
-    <title>Water Sort v1.0.20</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Water%20Sort</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Water%20Sort</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.0.20 — Water Sort is a simple yet addictive puzzle game where you sort colored water in tubes until each tube contains only one color. How to play: - Tap a tube to pick up the top color, then tap another tube to pour it. - You can only pour the same color on top of another same color. - (via fdroid)</description>
+    <title>FitBook: Calorie Tracker v2.0.107</title>
+    <link>https://droidhorde.pages.dev/#app=FitBook%3A%20Calorie%20Tracker</link>
+    <guid>https://droidhorde.pages.dev/#app=FitBook%3A%20Calorie%20Tracker</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v2.0.107 — Never fear being tracked, or served ads with FitBook. Our app is completely free and open source. - Visualize your weight progress with beautiful graphs - Search OpenFoodFacts for all your favorite snacks - Customize absolutely everything to your hearts desires https://github.com (via fdroid)</description>
   </item>
   <item>
-    <title>WebSpace v0.3.5</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=WebSpace</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=WebSpace</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v0.3.5 — Organize all your web apps in one streamlined app. Features include cookie isolation for keeping accounts separate and secure, ClearURLs tracking parameter removal, DNS blocklist domain blocking, and LocalCDN resource caching for privacy, proxy support, workspace organization for (via fdroid)</description>
+    <title>L×Box: VPN &amp; Proxy Client v2.25.18</title>
+    <link>https://droidhorde.pages.dev/#app=L%C3%97Box%3A%20VPN%20%26%20Proxy%20Client</link>
+    <guid>https://droidhorde.pages.dev/#app=L%C3%97Box%3A%20VPN%20%26%20Proxy%20Client</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v2.25.18 — L×Box is a high-performance proxy client with no compromises. You choose the servers. You set the rules. You control the traffic. L×Box does exactly what you told it to. 12+ protocols, your Tailscale network, advanced routing, full DNS control, detour chains, per-app split tunnel (via fdroid)</description>
   </item>
   <item>
-    <title>Liseur v0.23.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Liseur</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Liseur</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v0.23.0 — Liseur is a free, open-source EPUB reader for Android built for people who keep and self-host their own ebook library. Read EPUB files stored on your phone, or connect directly to BookOrbit, calibre-web, Komga, liseur-sync, and OPDS catalogs. Keep local and remote books together  (via fdroid, apkpure)</description>
+    <title>MarketMonk: Stock Tracker v1.0.114</title>
+    <link>https://droidhorde.pages.dev/#app=MarketMonk%3A%20Stock%20Tracker</link>
+    <guid>https://droidhorde.pages.dev/#app=MarketMonk%3A%20Stock%20Tracker</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.0.114 — Follow stocks and understand your portfolio at a glance. MarketMonk is a stock tracker and portfolio monitor for investors who want a clear view of market prices, holdings, and performance. Add the shares you follow, build your portfolio, and explore price charts from one straigh (via fdroid)</description>
   </item>
   <item>
-    <title>MegaProxy v1.1.1</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=MegaProxy</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=MegaProxy</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.1.1 — &lt;p&gt;MegaProxy is an open-source Android VPN client for reliable and secure connections through proxy servers you control or trust.&lt;/p&gt; &lt;p&gt;MegaProxy uses Android&#x27;s VpnService to route TCP traffic from all apps or selected apps through an encrypted connection to a user-configured HT (via fdroid)</description>
+    <title>mucke - Music Player v1.7.0</title>
+    <link>https://droidhorde.pages.dev/#app=mucke%20-%20Music%20Player</link>
+    <guid>https://droidhorde.pages.dev/#app=mucke%20-%20Music%20Player</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.7.0 — mucke gets the best out of your local music collection: - Like songs to hear them more often in shuffle mode. - Exclude songs from playing in shuffle mode. - Link songs together to play them back-to-back in shuffle mode. - Create smart playlists by filtering and sorting your libr (via fdroid)</description>
   </item>
   <item>
-    <title>Password Monitor v1.0.7</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Password%20Monitor</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Password%20Monitor</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.0.7 — &lt;p&gt;This app seamlessly integrates with &lt;a href=&quot;https://haveibeenpwned.com&quot; target=&quot;_blank&quot; rel=&quot;noindex nofollow noopener&quot;&gt;Have I Been Pwned?&lt;/a&gt; to help you verify whether your passwords have been compromised in any publicly disclosed data breaches. Your passwords stay private  (via fdroid, izzy, apkpure)</description>
+    <title>Notes Tech v3.1.1</title>
+    <link>https://droidhorde.pages.dev/#app=Notes%20Tech</link>
+    <guid>https://droidhorde.pages.dev/#app=Notes%20Tech</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v3.1.1 — Notes Tech: 100% local Markdown note-taking, encrypted at rest. Written in Kotlin. &lt;b&gt;Radical privacy&lt;/b&gt; • No INTERNET permission — verifiable with &lt;code&gt;aapt dump permissions app.apk&lt;/code&gt; • No account, no telemetry, no tracker, no advertising • SQLCipher AES-256 database, key (via fdroid)</description>
   </item>
   <item>
-    <title>Aucards v2.6.3</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Aucards</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Aucards</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v2.6.3 — &lt;p&gt;&lt;i&gt;Aucards&lt;/i&gt; is a free and open-source app where you can create colorful communication cards to help you communicate with others.&lt;/p&gt;&lt;p&gt;App is based on the concept of &quot;autistic cards&quot;, which people with special needs use to quickly communicate their feelings, their requests  (via fdroid, izzy, apkpure)</description>
+    <title>ServerBox v1.0.1844</title>
+    <link>https://droidhorde.pages.dev/#app=ServerBox</link>
+    <guid>https://droidhorde.pages.dev/#app=ServerBox</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.0.1844 — A Flutter project which provide charts to display Linux server status and tools to manage server. Especially thanks to dartssh2 &amp; xterm.dart. * Status chart (CPU, Sensors, GPU...), SSH Term, SFTP, Docker &amp; Pkg &amp; Process... * Platform specific: Bio auth、Msg push、Home widget、watchO (via fdroid)</description>
   </item>
   <item>
-    <title>MonsterMusic v0.1.85</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=MonsterMusic</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=MonsterMusic</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v0.1.85 — &lt;p&gt;&lt;b&gt;MonsterMusic&lt;/b&gt; is an open-source, private, and customizable local music player for Android.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;b&gt;Key Features:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Native C DSP Audio Engine:&lt;/b&gt; Ultra-low latency audio processing powered by high-performance native C.&lt;/li&gt;&lt;li&gt;&lt;b&gt;Dual Filter Architec (via fdroid, izzy, aptoide)</description>
+    <title>UWR Planer v1.6.7</title>
+    <link>https://droidhorde.pages.dev/#app=UWR%20Planer</link>
+    <guid>https://droidhorde.pages.dev/#app=UWR%20Planer</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.6.7 — The official app for UWR Planer (uwr-plan.de), the planning tool for underwater rugby. It brings UWR Planer to your Android device: manage clubs, teams, squads, leagues and match days — the same feature set as the web app, in a standalone app. Features: • Full access to UWR Plane (via fdroid)</description>
   </item>
   <item>
-    <title>NouTube v0.7.2</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=NouTube</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=NouTube</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v0.7.2 — YouTube and YouTube Music in a single app. No ads, plays in the background. &lt;ul&gt;&lt;li&gt;Manage watchlist, music library without login&lt;/li&gt;&lt;li&gt;Manage watch history without login&lt;/li&gt;&lt;li&gt;Download video&lt;/li&gt;&lt;li&gt;RSS feed reader for YouTube channels&lt;/li&gt;&lt;li&gt;Hide shorts&lt;/li&gt;&lt;li&gt;Live chat&lt;/ (via fdroid, aptoide)</description>
+    <title>Aucards v2.6.4</title>
+    <link>https://droidhorde.pages.dev/#app=Aucards</link>
+    <guid>https://droidhorde.pages.dev/#app=Aucards</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v2.6.4 — &lt;p&gt;&lt;i&gt;Aucards&lt;/i&gt; is a free and open-source app where you can create colorful communication cards to help you communicate with others.&lt;/p&gt;&lt;p&gt;App is based on the concept of &quot;autistic cards&quot;, which people with special needs use to quickly communicate their feelings, their requests  (via fdroid, izzy, apkpure)</description>
   </item>
   <item>
-    <title>Transistor - Simple Radio App v4.3.10</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Transistor%20-%20Simple%20Radio%20App</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Transistor%20-%20Simple%20Radio%20App</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v4.3.10 — Transistor is a radio app with a minimalistic approach, that may not be to everyone&#x27;s liking. It has no radio station discovery feature. Transistor only offers a very simple search option and it imports audio streaming links, when you tap on them in a web browser. Transistor is f (via fdroid, izzy, aptoide)</description>
+    <title>TEA Kids v1.1.10</title>
+    <link>https://droidhorde.pages.dev/#app=TEA%20Kids</link>
+    <guid>https://droidhorde.pages.dev/#app=TEA%20Kids</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.1.10 — TEA Kids supports everyday autonomy, predictability and emotional regulation for autistic children and teenagers, with simple language and emojis. Features: • Visual routines with one step at a time, a gentle timer, pause and extra time. • Emotion check-ins and a diary of recent  (via fdroid)</description>
   </item>
   <item>
-    <title>Be nice v2.3.1</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Be%20nice</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Be%20nice</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v2.3.1 — &lt;strong&gt;Be nice&lt;/strong&gt; is a modern Android launcher built with Jetpack Compose. It started as a tool to launch apps in split-screen mode to avoid forced rotation on tablets and foldables, and has evolved into a full-featured home screen replacement. &lt;strong&gt;Key features&lt;/strong (via fdroid, izzy)</description>
+    <title>Voyage v20261029</title>
+    <link>https://droidhorde.pages.dev/#app=Voyage</link>
+    <guid>https://droidhorde.pages.dev/#app=Voyage</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v20261029 — Voyage is a Matrix client for Android, based on Element Classic. Many improvements to feature set and performance have been made on top of the now-sunsetted Element Classic. &lt;b&gt;Make it yours&lt;/b&gt; • Custom emoji and stickers with image packs: build your own, share them in rooms, im (via fdroid)</description>
   </item>
   <item>
-    <title>Birday - Birthday Manager v5.0.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Birday%20-%20Birthday%20Manager</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Birday%20-%20Birthday%20Manager</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v5.0.0 — &lt;h2&gt;&lt;b&gt;Introduction 👋&lt;/b&gt;&lt;/h2&gt; This app was created to remember and manage events in a simple and effective way. The app contains some basic personalization options and an introduction, plus some new resources like animated vector drawables and the automatic dark/light theme. Sup (via fdroid, izzy, aptoide)</description>
+    <title>Blue Line Console v1.2.26</title>
+    <link>https://droidhorde.pages.dev/#app=Blue%20Line%20Console</link>
+    <guid>https://droidhorde.pages.dev/#app=Blue%20Line%20Console</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v1.2.26 — Blue Line Console launches your apps, web search engines, and built in calculator via keyboard. You can launch the desired app quickly with your keyboard everywhere. Just type 2 or 3 characters, and likely you can find the desired app on top of list. You need no configuration to  (via fdroid, izzy, aptoide)</description>
   </item>
   <item>
-    <title>DNS Toggle v3.0.5</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=DNS%20Toggle</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=DNS%20Toggle</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v3.0.5 — &lt;p&gt;DNS Toggle is a small Android app that allows you to easily toggle and automate your phone&#x27;s Private DNS through the Quick Settings panel.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt;&lt;br&gt;&lt;i&gt;To modify Private DNS system settings, this app requires the &lt;tt&gt;WRITE_SECURE_SETTINGS&lt;/tt&gt; perm (via fdroid, izzy)</description>
+    <title>ColorBlendr vv3.1.2</title>
+    <link>https://droidhorde.pages.dev/#app=ColorBlendr</link>
+    <guid>https://droidhorde.pages.dev/#app=ColorBlendr</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>vv3.1.2 — &lt;p&gt;&lt;b style=&quot;color: dodgerblue;&quot;&gt;ColorBlendr&lt;/b&gt; is an application to modify Material You colors of your device. Elevate your creativity with effortless material customization. Instantly tweak colors for a personalized touch in just a few taps.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Features:&lt;/b&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A (via fdroid, izzy, aptoide)</description>
   </item>
   <item>
-    <title>Dragon Launcher v4.5.1 (Komodo)</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Dragon%20Launcher</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Dragon%20Launcher</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v4.5.1 (Komodo) — &lt;p&gt;Dragon Launcher is a highly customizable Android launcher focused on speed and efficiency.&lt;/p&gt;&lt;p&gt;The main Idea of this launcher is to launch your apps via gestures. You can customize your list of fast access apps easily in the settings,and also use the app drawer to pick an ap (via fdroid, izzy)</description>
+    <title>File Navigator v0.3.6</title>
+    <link>https://droidhorde.pages.dev/#app=File%20Navigator</link>
+    <guid>https://droidhorde.pages.dev/#app=File%20Navigator</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v0.3.6 — &lt;b&gt;Welcome to File Navigator - Your Ultimate File Sorting Solution!&lt;/b&gt; Are you tired of cluttered files on your device? Seeking a streamlined way to organize and manage them? Look no further! File Navigator is here to transform your file management experience. &lt;b&gt;Key Features:&lt;/ (via fdroid, izzy, aptoide)</description>
   </item>
   <item>
-    <title>DSub2000 v5.7.5</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=DSub2000</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=DSub2000</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v5.7.5 — &lt;p&gt;Connect to your Subsonic server and listen to your music wherever you go. Songs are cached for playback to save on your mobile bandwidth and to make them available when you have no connection at all.&lt;/p&gt;&lt;p&gt;Subsonic is a cross-platform FOSS media server that&#x27;s capable of indexi (via fdroid, izzy)</description>
+    <title>Wall You v17.1</title>
+    <link>https://droidhorde.pages.dev/#app=Wall%20You</link>
+    <guid>https://droidhorde.pages.dev/#app=Wall%20You</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v17.1 — &lt;p&gt;&lt;i&gt;Wall You&lt;/i&gt; is a Wallpaper App built with &lt;a href=&quot;https://m3.material.io/&quot; target=&quot;_blank&quot; rel=&quot;noindex nofollow noopener&quot;&gt;Material Design 3 (You)&lt;/a&gt;. For that matter, the app supports a wide range of wallpaper sources. Most of them are unfortunately nonfree however, thu (via fdroid, izzy, aptoide)</description>
   </item>
   <item>
-    <title>Easy Watermark v3.0.3</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Easy%20Watermark</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Easy%20Watermark</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v3.0.3 — &lt;p&gt;Securely, easily add a watermark to your sensitive photos. To prevent them from being leaked or exploited by the BAD GUY.&lt;/p&gt;&lt;p&gt;Of course, it is also suitable for making emojis.&lt;/p&gt;&lt;p style=&quot;font-weight:bold;font-size:larger;&quot;&gt;Characteristics&lt;/p&gt;&lt;p style=&quot;font-weight:bold;font (via fdroid, izzy)</description>
+    <title>Be nice v2.4.3</title>
+    <link>https://droidhorde.pages.dev/#app=Be%20nice</link>
+    <guid>https://droidhorde.pages.dev/#app=Be%20nice</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v2.4.3 — &lt;strong&gt;Be nice&lt;/strong&gt; is a modern Android launcher built with Jetpack Compose. It started as a tool to launch apps in split-screen mode to avoid forced rotation on tablets and foldables, and has evolved into a full-featured home screen replacement. &lt;strong&gt;Key features&lt;/strong (via fdroid, izzy)</description>
   </item>
   <item>
-    <title>Exercise Reminders v1.7.4</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Exercise%20Reminders</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Exercise%20Reminders</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.7.4 — This app allows the user to schedule regular reminders for exercise, by setting a start time, end time, and frequency of alerts (e.g. every 90 minutes). The user can manage the list of exercises, and enable/disable based on categories, or individual exercises. Based on the schedu (via fdroid, apkpure)</description>
+    <title>CAPod - Companion for AirPods v5.6.0-rc0</title>
+    <link>https://droidhorde.pages.dev/#app=CAPod%20-%20Companion%20for%20AirPods</link>
+    <guid>https://droidhorde.pages.dev/#app=CAPod%20-%20Companion%20for%20AirPods</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v5.6.0-rc0 — &lt;p&gt;CAPod is a companion app for AirPods.&lt;/p&gt;&lt;p&gt;Features:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Battery level for pods and cases.&lt;/li&gt;&lt;li&gt;Charging status for pods and case.&lt;/li&gt;&lt;li&gt;Additional infos about connection, microphone and case.&lt;/li&gt;&lt;li&gt;Can receive and show all nearby devices.&lt;/li&gt;&lt;li&gt;Ear detection  (via fdroid, izzy)</description>
   </item>
   <item>
-    <title>FileFlow v1.10.0</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=FileFlow</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=FileFlow</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.10.0 — &lt;p&gt;FileFlow scans your files periodically and organizes them according to your rules.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Features:&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Rules: Use regex to precisely target files.&lt;/li&gt;&lt;li&gt;Actions: Choose what to do with the files - copy, move, rename, zip, emit, or delete.&lt;/li&gt;&lt;li&gt;Schedule (via fdroid, izzy)</description>
+    <title>DNS Toggle v3.0.8</title>
+    <link>https://droidhorde.pages.dev/#app=DNS%20Toggle</link>
+    <guid>https://droidhorde.pages.dev/#app=DNS%20Toggle</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v3.0.8 — &lt;p&gt;DNS Toggle is a small Android app that allows you to easily toggle and automate your phone&#x27;s Private DNS through the Quick Settings panel.&lt;/p&gt;&lt;blockquote&gt;&lt;p&gt;&lt;b&gt;IMPORTANT:&lt;/b&gt;&lt;br&gt;&lt;i&gt;To modify Private DNS system settings, this app requires the &lt;tt&gt;WRITE_SECURE_SETTINGS&lt;/tt&gt; perm (via fdroid, izzy)</description>
   </item>
   <item>
-    <title>Fossify File Manager v1.6.2</title>
-    <link>https://crtghoul.github.io/droidhorde/#app=Fossify%20File%20Manager</link>
-    <guid>https://crtghoul.github.io/droidhorde/#app=Fossify%20File%20Manager</guid>
-    <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-    <description>v1.6.2 — Tired of file managers that slow you down and invade your privacy? Unlock a lightning-fast, secure, and completely customizable experience with Fossify File Manager. ⚡&lt;br&gt;&lt;br&gt;🚀 DOMINATE YOUR DIGITAL WORLD WITH BLAZING-FAST NAVIGATION:&lt;br&gt;• Swiftly manage your files with easy comp (via fdroid, izzy)</description>
+    <title>Dragon Launcher v4.6.0 (Tardigrade)</title>
+    <link>https://droidhorde.pages.dev/#app=Dragon%20Launcher</link>
+    <guid>https://droidhorde.pages.dev/#app=Dragon%20Launcher</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 GMT</pubDate>
+    <description>v4.6.0 (Tardigrade) — &lt;p&gt;Dragon Launcher is a highly customizable Android launcher focused on speed and efficiency.&lt;/p&gt;&lt;p&gt;The main Idea of this launcher is to launch your apps via gestures. You can customize your list of fast access apps easily in the settings,and also use the app drawer to pick an ap (via fdroid, izzy)</description>
   </item>
 </channel>
 </rss>
